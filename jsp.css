@@ -1,0 +1,61 @@
+
+body {
+            font-family: Arial, sans-serif;
+            margin: 10;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+header {
+            background-color:#139ca1;
+            color: #000000;
+            padding: 1rem;
+            text-align: center;
+        }
+
+main {
+            padding: 2rem;
+        }
+
+h1 { 
+            font-family: "Madimi One", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+            background-color:#139ca1 ;
+            pading:0;
+            margin:10;
+            text-align: center;
+
+        }
+h2 { 
+            font-family: "Madimi One", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+            background-color:#139ca1 ;
+            pading:0;
+            margin:10;
+            text-align: center;
+
+        }
+
+
+p {
+            font-size: 1.2rem;
+            line-height: 1.5;
+            text-align: center;
+        }
+
+footer {
+            background-color: #139ca1;
+            color: #000000;
+            padding: 1rem;
+            text-align: center;
+            margin-top: 1rem;
+        }
+img {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+
+        }
+     
